@@ -13,11 +13,3 @@ export const Button: React.FC<IButton> = (props) => {
     </AntdButton>
   )
 }
-
-// export const Button: React.FC = () => {
-//   return (
-//     <button>
-//       test2
-//     </button>
-//   )
-// }
