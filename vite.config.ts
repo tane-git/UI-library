@@ -19,7 +19,8 @@ export default defineConfig({
     },
     rollupOptions: {
       external: [
-        'antd', 'react'
+      //   'antd', 'react'
+      'react'
       ],
       output: {
         globals: {
